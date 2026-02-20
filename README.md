@@ -1,5 +1,7 @@
 # 👋 Hi, I'm José Merino
 
+[![committers.top rank](https://img.shields.io/badge/committers.top-El%20Salvador%20%23211-blue)](https://committers.top/el_salvador_private)
+
 💻 Frontend-Oriented Software Developer | Student  
 🚀 Focused on building scalable, well-structured, and maintainable applications  
 📍 El Salvador  
