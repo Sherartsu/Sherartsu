@@ -70,8 +70,3 @@ I care deeply about **project structure, good architectures, and best practices*
 - Scalable applications  
 - Software architecture  
 - Continuous improvement  
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/Sherartsu  
