@@ -9,6 +9,15 @@
 ## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   24 hrs 51 mins        █████████████████████████   99.43 %
+CSS          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
