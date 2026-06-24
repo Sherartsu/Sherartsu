@@ -1,83 +1,97 @@
 # 👋 Hi, I'm José Merino
 
-[![committers.top rank](https://img.shields.io/badge/committers.top-El%20Salvador%20%23211-blue)](https://committers.top/el_salvador_private)
-
-💻 Frontend-Oriented Software Developer | Student  
-🚀 Focused on building scalable, well-structured, and maintainable applications  
+💻 Frontend Developer | React & TypeScript  
+🚀 Building scalable, modern and maintainable web applications  
 📍 El Salvador  
-
----
-
-## 🧠 About Me
-I am a software development student primarily focused on **Frontend development**,  
-working with **HTML, CSS, and JavaScript** to build clean, responsive, and user-friendly interfaces.
-
-Alongside frontend, I have solid experience in **Backend development using Java and Spring Boot**,  
-which allows me to understand full application flows and build projects with scalability in mind.
-
-I care deeply about **project structure, good architectures, and best practices**, aiming to create software that is easy to maintain and grow over time.
-
----
-
-## 🛠️ Tech Stack
-
-### 🔹 Frontend (Main Focus)
-- HTML5  
-- CSS3  
-- JavaScript  
-
-### 🔹 Backend
-- Java  
-- Spring / Spring Boot  
-- MVC Architecture  
-- DAO / DTO patterns  
-
-### 🔹 Databases
-- Oracle Database  
-- SQL Server  
-- MySQL  
-
-### 🔹 Tools
-- Git & GitHub  
-- Visual Studio Code  
-
----
-
-## 🧱 Architecture & Practices
-- Scalable project structure  
-- Separation of concerns  
-- Clean and readable code  
-- Reusable components and logic  
-- Version control with Git  
 
 ---
 
 ## 📊 Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-JavaScript   24 hrs 51 mins        █████████████████████████   99.43 %
-CSS          7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
+## 🧠 About Me
+
+I am a software development student focused on **modern Frontend Development**, specializing in building clean, scalable and user-friendly web applications using **React and TypeScript**.
+
+I enjoy turning ideas into real products through well-structured interfaces, reusable components and good development practices.
+
+I also have experience in **Backend Development**, which helps me understand full-stack systems and build better architecture decisions.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend (Main Focus)
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### ⚙️ Backend
+
+- Node.js
+- Express.js
+- Java
+- Spring Boot
+- REST APIs
+
+### 🗄️ Databases
+
+- MongoDB
+- MySQL
+- SQL Server
+- Oracle Database
+
+### 🧰 Tools & Workflow
+
+- Git & GitHub
+- Visual Studio Code
+- Postman
+- WakaTime
+
+---
+
+## 🏗️ Development Principles
+
+- Component-based architecture
+- Clean code & readability
+- Scalable project structure
+- Reusable UI logic
+- Separation of concerns
+- REST API integration
+
+---
+
 ## 📈 Currently Learning
-- Advanced **JavaScript** concepts  
-- Frontend best practices and performance  
-- Advanced **Spring Boot**
-- **MERN Stack** (MongoDB, Express, React, Node.js)
+
+- Advanced React patterns
+- TypeScript best practices
+- Backend with Node.js
+- MongoDB deeper concepts
+- Software architecture & performance optimization
 
 ---
 
 ## 🎯 Interests
-- Frontend development  
-- Scalable applications  
-- Software architecture  
-- Continuous improvement  
+
+- Frontend Engineering
+- UI/UX Development
+- Scalable systems
+- Software architecture
+- Continuous learning
+
+---
+
+## 🚀 Featured Projects
+
+- YonJobs (Main project)
+- React + TypeScript applications
+- Spring Boot systems
+- Full-stack MERN projects
