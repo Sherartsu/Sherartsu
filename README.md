@@ -45,15 +45,3 @@ Software Development student focused on Frontend Engineering, building modern we
 ## Currently Learning
 
 Advanced React, TypeScript best practices, Node.js, MongoDB and software architecture.
-
----
-
-## 🚀 Featured Projects
-
-- **YonJobs** — AI-powered recruitment platform built with React, TypeScript, Node.js and MongoDB.
-- **More projects coming soon...**
-
-- YonJobs (Main project)
-- React + TypeScript applications
-- Spring Boot systems
-- Full-stack MERN projects
