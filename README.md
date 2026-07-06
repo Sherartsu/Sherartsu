@@ -1,6 +1,5 @@
-# 👋 Hi, I'm José Merino
+José Merino | Frontend Developer | React & TypeScript  
 
-💻 Frontend Developer | React & TypeScript  
 🚀 Building scalable, modern and maintainable web applications  
 📍 El Salvador  
 
