@@ -7,6 +7,15 @@ Building modern, scalable and maintainable web applications.
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   15 hrs 42 mins        ████████████████████████▒   96.97 %
+Bash         16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Other        11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
