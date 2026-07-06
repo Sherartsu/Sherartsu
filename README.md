@@ -7,7 +7,6 @@ Building modern, scalable and maintainable web applications.
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 ---
