@@ -9,11 +9,15 @@ Building modern, scalable and maintainable web applications.
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   15 hrs 42 mins        ████████████████████████▒   96.97 %
-Bash         16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Other        11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Total Time: 15 hrs 41 mins
+
+JavaScript   15 hrs 27 mins        ████████████████████████▒   97.31 %
+Bash         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other        11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 HTML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+CSS          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
