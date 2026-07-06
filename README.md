@@ -1,7 +1,6 @@
  ## José Merino | Frontend Developer | React & TypeScript  
 
- Building scalable, modern and maintainable web applications  
- El Salvador  
+ Building scalable, modern and maintainable web applications
 
 ---
 
