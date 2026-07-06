@@ -20,6 +20,9 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
