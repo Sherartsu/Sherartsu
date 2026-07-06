@@ -1,11 +1,11 @@
-José Merino | Frontend Developer | React & TypeScript  
+ ## José Merino | Frontend Developer | React & TypeScript  
 
-🚀 Building scalable, modern and maintainable web applications  
-📍 El Salvador  
+ Building scalable, modern and maintainable web applications  
+ El Salvador  
 
 ---
 
-## 📊 Coding Activity
+##  Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -21,7 +21,7 @@ HTML         0 secs                ░░░░░░░░░░░░░░░
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I am a software development student focused on **modern Frontend Development**, specializing in building clean, scalable and user-friendly web applications using **React and TypeScript**.
 
@@ -31,9 +31,9 @@ I also have experience in **Backend Development**, which helps me understand ful
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend (Main Focus)
+### Frontend (Main Focus)
 
 - React
 - TypeScript
@@ -42,7 +42,7 @@ I also have experience in **Backend Development**, which helps me understand ful
 - CSS3
 - Tailwind CSS
 
-### ⚙️ Backend
+### Backend
 
 - Node.js
 - Express.js
@@ -50,14 +50,14 @@ I also have experience in **Backend Development**, which helps me understand ful
 - Spring Boot
 - REST APIs
 
-### 🗄️ Databases
+### Databases
 
 - MongoDB
 - MySQL
 - SQL Server
 - Oracle Database
 
-### 🧰 Tools & Workflow
+### Tools & Workflow
 
 - Git & GitHub
 - Visual Studio Code
@@ -66,7 +66,7 @@ I also have experience in **Backend Development**, which helps me understand ful
 
 ---
 
-## 🏗️ Development Principles
+## Development Principles
 
 - Component-based architecture
 - Clean code & readability
@@ -77,7 +77,7 @@ I also have experience in **Backend Development**, which helps me understand ful
 
 ---
 
-## 📈 Currently Learning
+## Currently Learning
 
 - Advanced React patterns
 - TypeScript best practices
@@ -87,7 +87,7 @@ I also have experience in **Backend Development**, which helps me understand ful
 
 ---
 
-## 🎯 Interests
+## Interests
 
 - Frontend Engineering
 - UI/UX Development
