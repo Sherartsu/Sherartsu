@@ -9,18 +9,18 @@ Building modern, scalable and maintainable web applications.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 514 hrs 23 mins
+Total Time: 521 hrs 31 mins
 
-JavaScript    351 hrs 58 mins       █████████████████░░░░░░░░   67.99 %
-CSS           59 hrs 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-TypeScript    57 hrs 46 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-HTML          35 hrs 38 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-Bash          3 hrs 46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-Other         3 hrs 15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-JSON          2 hrs 33 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Java          2 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Git Config    30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Markdown      29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JavaScript    357 hrs 43 mins       █████████████████░░░░░░░░   68.16 %
+CSS           59 hrs 17 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+TypeScript    57 hrs 47 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
+HTML          35 hrs 38 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Bash          4 hrs 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Other         3 hrs 16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+JSON          2 hrs 49 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Java          2 hrs 7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Markdown      41 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Git Config    34 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
