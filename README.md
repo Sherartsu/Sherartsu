@@ -9,11 +9,11 @@ Building modern, scalable and maintainable web applications.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 695 hrs
+Total Time: 695 hrs 42 mins
 
-JavaScript    408 hrs 11 mins       ██████████████▓░░░░░░░░░░   58.37 %
-TypeScript    152 hrs 55 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
-CSS           61 hrs 20 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+JavaScript    408 hrs 11 mins       ██████████████▓░░░░░░░░░░   58.32 %
+TypeScript    153 hrs 37 mins       █████▒░░░░░░░░░░░░░░░░░░░   21.95 %
+CSS           61 hrs 20 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
 HTML          48 hrs 12 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
 Bash          7 hrs 49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 JSON          6 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
